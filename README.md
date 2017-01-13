@@ -3,9 +3,10 @@
 ### FAQ
 
 - Comment je fais pour changer mon nom utilisateur ?
-[la réponse en image](/assets/doc/Framateam.pdf)
+[la réponse en image](https://stephanety-pro.github.io/OC-Framateam/assets/doc/Framateam.pdf)
+
 
 - Comment je fais pour changer de thème ?
-[la réponse en image](/assets/doc/PARAMETRAGE FRAMATEAM.pdf)
+[la réponse en image](https://stephanety-pro.github.io/OC-Framateam/assets/assets/doc/PARAMETRAGE FRAMATEAM.pdf)
 
 
