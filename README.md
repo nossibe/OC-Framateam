@@ -9,6 +9,9 @@
 - Comment je fais pour changer de thème ?
 [la réponse en image](https://stephanety-pro.github.io/OC-Framateam/assets/assets/doc/PARAMETRAGE FRAMATEAM.pdf)
 
+- Comment je fais pour utiliser la coloration syntaxique ?
+[la réponse en image](https://stephanety-pro.github.io/OC-Framateam/coloration-syntaxique.md)
+
 Merci aux contributeurs
  - Natacha Noel
  - Benoit Grisot
