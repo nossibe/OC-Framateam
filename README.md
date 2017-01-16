@@ -13,5 +13,7 @@
 [la réponse en image](https://stephanety-pro.github.io/OC-Framateam/coloration-syntaxique.md)
 
 Merci aux contributeurs
+
  - Natacha Noel
  - Benoit Grisot
+ - Gaetan Vial
