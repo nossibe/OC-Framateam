@@ -15,7 +15,14 @@
 ## Ressources
 [Gestion de projet](https://stephanety-pro.github.io/OC-Framateam/ressources-projets.html)
 
-Merci aux contributeurs
+
+# Remerciements
+
+## Framasoft 
+Framasoft héberge cette page à titre gracieux
+
+## Merci aux contributeurs
 
  - Natacha Noel
  - Benoit Grisot
+ 
