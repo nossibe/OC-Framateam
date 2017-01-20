@@ -13,7 +13,7 @@
 [la réponse en image](https://stephanety-pro.github.io/OC-Framateam/coloration_syntaxique.html)
 
 ## Ressources
-[Gestion de projet](/ressources-projet.html)
+[Gestion de projet](/ressources-projets.html)
 
 Merci aux contributeurs
 
