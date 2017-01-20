@@ -1,6 +1,6 @@
-## Bienvenue sur la page OpenClassroom de la framateam
+# Bienvenue sur la page OpenClassroom de la framateam
 
-### FAQ
+## FAQ
 
 - Comment je fais pour changer mon nom utilisateur ?
 [la réponse en image](https://stephanety-pro.github.io/OC-Framateam/assets/doc/Framateam.pdf)
@@ -11,6 +11,9 @@
 
 - Comment je fais pour utiliser la coloration syntaxique ?
 [la réponse en image](https://stephanety-pro.github.io/OC-Framateam/coloration_syntaxique.html)
+
+## Ressources
+[Gestion de projet](/ressources-projet.html)
 
 Merci aux contributeurs
 
