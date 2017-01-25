@@ -14,7 +14,7 @@
 
 ## Ressources
 
-[CodeTricks]((https://stephanety-pro.github.io/OC-Framateam/codetricks.html) des trucs et astuces sur le code en js, php, go...
+[CodeTricks](https://stephanety-pro.github.io/OC-Framateam/codetricks.html) des trucs et astuces sur le code en js, php, go...
 
 [Gestion de projet](https://stephanety-pro.github.io/OC-Framateam/ressources-projets.html)
 
