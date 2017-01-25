@@ -2,4 +2,4 @@
 
 Retrouvez ici des astuces dans vos languages préferés
 
-[JS](https://stephanety-pro.github.io/OC-Framateam/codetricks-js.html) 
+[JS](https://stephanety-pro.github.io/OC-Framateam/codetricks-js.html) le js dans tous ses etats
