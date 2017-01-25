@@ -13,6 +13,9 @@
 [la réponse en image](https://stephanety-pro.github.io/OC-Framateam/coloration_syntaxique.html)
 
 ## Ressources
+
+[CodeTricks]((https://stephanety-pro.github.io/OC-Framateam/codetricks.html) des trucs et astuces sur le code en js, php, go...
+
 [Gestion de projet](https://stephanety-pro.github.io/OC-Framateam/ressources-projets.html)
 
 [FramaClassrooms-veille](https://trello.com/b/kU7m0CDE) : un trello contenant des ressources diverses sur l'ensemble des sujets de la formation OC, la contribution est possible via ce [lien](https://trello.com/invite/b/kU7m0CDE/4547de55d3929b44f2a00073d0d76dd4/framaclassrooms-veille)
