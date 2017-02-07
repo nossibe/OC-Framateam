@@ -12,6 +12,6 @@ Auteur Benoit Grisot
 
 Auteur Aurélien Regi
 
-[proposition-4](https://framapic.org/gallery#Ej0e4P8Z4uJ4/qtV2IZmiP4lW.png)
+[proposition-4](https://framateam.org/api/v3/public/files/kbof6yboctn3xpaddsgxmdbsrh/get?h=y3LteZ4Zaq0oqM-hU02qsx8Kx7PZTQVPJebwLhKhHQI)
 
 Auteur Gaëtan Vial
