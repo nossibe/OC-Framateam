@@ -2,7 +2,7 @@
 
 [proposition-1](https://framapic.org/MyodQJxe4dvt/XcvT7Lig45FW.png)
 
-Auteur Francisco 
+Auteur Francisco Teixeira Moura 
 
 [proposition-2](https://framapic.org/sPPoxclPcLw0/NUqHZjnobx0l.png)
 
