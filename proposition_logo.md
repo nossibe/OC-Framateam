@@ -2,7 +2,7 @@
 
 [planche_1](https://framapic.org/MyodQJxe4dvt/XcvT7Lig45FW.png)
 
-Auteur Franciso 
+Auteur Francisco 
 
 ## Proposition 2
 
